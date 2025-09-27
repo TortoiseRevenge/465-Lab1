@@ -1,0 +1,41 @@
+: record AdamMiller_465_Lab1_9-9
+: Sun
+: offset -27 0
+: freq 1425 1
+: noisecal
+: offset -24 0
+:10
+: offset -21 0
+:10
+: offset -18 0
+:10
+: offset -15 0
+:10
+: offset -12 0
+:10
+: offset -9 0
+:10
+: offset -6 0
+:10
+: offset -3 0
+:10
+: offset 0 0
+:10
+: offset 3 0
+:10
+: offset 6 0
+:10
+: offset 9 0
+:10
+: offset 12 0
+:10
+: offset 15 0
+:10
+: offset 18 0
+:10
+: offset 21 0
+:10
+: offset 24 0
+:10
+: roff
+
